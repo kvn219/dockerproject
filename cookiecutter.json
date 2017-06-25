@@ -1,12 +1,9 @@
 {
 	"full_name": "Your Name",
-	"email": "youremail@domain.com",
 	"github_username": "github_username",
 	"project_name": "Fullstack Data Science Template",
 	"repo_name": "fullstack",
 	"project_short_description": "Description of your fullstack data science project",
-	"release_date": "2017-01-01",
 	"year": "2017",
-	"version": "0.1.0",
 	"license": "MIT"
 }
