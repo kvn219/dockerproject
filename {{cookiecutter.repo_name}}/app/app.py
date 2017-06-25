@@ -1,8 +1,9 @@
 from flask import Flask
-from flask_restful import Resource, Api
-
-# Instantiate the app
 app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
 
 # Run the application
 if __name__ == '__main__':
