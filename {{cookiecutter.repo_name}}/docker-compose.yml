@@ -1,0 +1,12 @@
+version: "2"
+
+services:
+    app:
+        build: ./app
+        container_name: "flask_app"
+    notebooks:
+        build: ./notebooks
+        container_name: "jupyter_notebook"
+    rest:
+        build: ./api
+        container_name: "rest_api"
