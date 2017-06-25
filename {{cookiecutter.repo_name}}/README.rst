@@ -1,6 +1,7 @@
-{{cookiecutter.app_title}}
+{{cookiecutter.project_name}}
 ==========================
 
 {{cookiecutter.short_description}}
 
 ----
+Testing cookiecutter.
