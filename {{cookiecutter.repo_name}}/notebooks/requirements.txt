@@ -1,0 +1,10 @@
+Flask
+ipdb
+IPython
+mongoengine
+psycopg2
+pymongo
+redis
+requests
+rq
+rq_dashboard
